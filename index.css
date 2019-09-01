@@ -13,31 +13,18 @@ body{
 	height: 169px;
 	display: flex;
 	direction: row;
-	background-color: #E06C00;
-	opacity: 0.8;
 }
 .logo{
 	margin-top: 8px;
-	width: 8%;
-	height: 50px;
-}
-.quote{
-	width: 70%;
-	height: 169px;
-	margin-top: 62.5px;
-	padding-left: 20px;
-}
-.quote h1{
-	text-transform: uppercase;
-	text-align: center;
-	color: white;
-	font-size: 45px;
-	font-family: century gothic;
+	width: 15%;
+	background-color: white;
+	height: 150px;
 }
 .menu{
-	margin-top: 5px;
-	width: 22%;
+	width: 85%;
     height: 169px;
+    margin-top: 25px;
+    padding-right: 600px;
 }
 .menu ul{
 	margin: 0;
@@ -50,8 +37,8 @@ body{
 	list-style: none;
 	text-align: center;
 	width: 100px;
-	height: 40px;
-	line-height: 40px;
+	height: 50px;
+	line-height: 50px;
 	background-color: green;
 	font-family: arial;
 	color: #fff;
@@ -72,7 +59,7 @@ body{
 .main{
 	width: 100%;
 	height: 200px;
-	padding-left: 300px;
+	padding-left: 80px;
 	margin-top: 250px;
 }
 .main a{
