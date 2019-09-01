@@ -22,9 +22,9 @@ body{
 }
 .menu{
 	width: 85%;
-    height: 169px;
-    margin-top: 25px;
-    padding-right: 600px;
+        height: 169px;
+        margin-top: 8px;
+        padding-right: 600px;
 }
 .menu ul{
 	margin: 0;
